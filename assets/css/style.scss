@@ -9,7 +9,7 @@ body {
     font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #404040;
     font-weight: 400;
-    max-width: 600px;
+    max-width: 500px;
 }
 strong {
     color: #404040;
@@ -17,13 +17,19 @@ strong {
 }
 h2 {
     color: #ffffff;
-    background: linear-gradient(90deg,#2665a1d8 0%, #2665a1d8 50%, #ffffff 100%);
+    background: linear-gradient(90deg,#366da0 0%, #366da0 50%, #ffffff 100%);
     padding: 5px;
 }
 img {
-    max-height: 200px;
+    max-width: 200px;
   }
 a {
     color: #2666a1;
     text-decoration: none;
 }
+header {
+    width:230px;
+  }
+footer {
+    width:230px;
+  }

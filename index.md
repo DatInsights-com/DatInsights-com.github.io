@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-### We help you manage, maximize, and interpret your data to make smart strategic decisions.
-
 ## Mission
 
 We aim to empower your organization by transforming data into **actionable insights** and strategic advantages.
