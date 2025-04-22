@@ -6,51 +6,46 @@ layout: default
 We aim to empower your organization by transforming data into **actionable insights** and strategic advantages.
 
 We are committed to:
-* Work as a **cohesive team** throughout the lifecycle of your project, ensuring seamless integration and continuous support.
-* Take the time to **understand your unique challenges** and objectives to build customized solutions that meet your needs.
-* Unlock the **full potential of your data** and expert knowledge to drive innovation, efficiency, and growth.
-* Employ an **iterative approach** to evaluate milestone achievements, ensuring continuous improvement and adaptability.
-* Guide you through each step of the process to ensure **knowledge transfer**, enabling your team to leverage insights effectively.
-* Build models that are fully **transparent and interpretable**, facilitating data-driven strategic recommendations that you can trust.
-* Deliver a **reproducible analysis** package that serves as a foundation for future developments.
+* Work as a **cohesive team** during the life of your project, ensuring continuous support.
+* Understand your **unique challenges** to build customized solutions that meet your needs.
+* Unlock the **full potential** of your data and expert knowledge to drive innovation.
+* Employ an **iterative approach** to evaluate milestones and adapt as the project progresses.
+* Facilitate **knowledge transfer**, empowering your team to contribute expertise and insights.
+* Build **transparent and interpretable** models, enabling data-driven recommendations you can trust.
+* Deliver a **reproducible analysis** package that wil serve as a foundation for future developments.
 
-Our goal is to be your **trusted partner** in strategic planning, helping you leverage data modeling to acheive **measurable results**.
+Our goal is to be your **trusted partner** in strategic planning, helping you acheive **measurable results**.
 
 ## Your needs
 
 We can assist your team with the following services:
 
 1. **Data quality control:**
-- Celan and preprocess data
+- Clean data and enforce consistency
 - Identify and handle missing values
-- Ensure data consistency and accuracy
 2. **Structuring your data:**
-- Explore data and create informative visualizations
-- Identify hierarchical and nested relationships
+- Explore and create informative visualizations
 - Incorporate expert knowledge and known causality
 3. **Predictive modeling:**
-- Leverage cutting-edge machine learning and Bayesian methods
-- Build tailored models that are transparent and interpretable
-- Explore and compare alternative model assumptions
+- Leverage powerful machine learning and Bayesian methods
+- Build tailored, transparent, and interpretable models
 4. **Quantifying uncertainty:**
-- Evaluate uncertainty in model predictions and gaps in knowledge
+- Evaluate uncertainty in predictions and gaps in knowledge
 - Account for all possible scenarios, including rare events
-- Perform sensitivity analyses of outcomes to parameters
 5. **Data-driven decision making:**
 - Assess risk and make decisions under uncertainty
-- Develop custom cost functions tailored to your needs
 - Balance trade-offs between different objectives
 6. **Training and knowledge transfer:**
-- Explain key modeling concepts and techniques
-- Empower your team to utilize the model to make predictions
-- Deliver a fully reproducible and customizable analysis package
+- Empower your team use the models to make predictions
+- Deliver a fully reproducible and customizable package
 
 ## Our expertise
 
 * Bayesian statistics
 * Causal inference
-* Hierarchical and mixed-effects modeling
-* Linear and non-linear modeling
+* Hierarchical and mixed-effects models
+* Linear and non-linear models
+* Classification, regression, forecasts
 * Data exploration and visualization
 
 * Bioinformatics and genomics
